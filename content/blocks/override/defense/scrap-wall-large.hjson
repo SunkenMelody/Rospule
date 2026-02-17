@@ -1,0 +1,18 @@
+shownPlanets: [serpulo , rospuleball]
+research: {
+    parent: "rospule-1-5",
+    objectives: [
+        {
+            type: "OnSector",
+            preset: "1-5"
+        }
+    ]
+}
+researchCost: [
+    copper/0
+  ]
+health: 384
+buildTime: 6
+requirements: [
+  scrap/24
+]

@@ -1,0 +1,4 @@
+shownPlanets: [serpulo , rospuleball]
+requirements: [
+  copper/100
+]

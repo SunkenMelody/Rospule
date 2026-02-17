@@ -1,0 +1,13 @@
+shownPlanets: [serpulo , rospuleball]
+research: {
+    parent: "rospule-1-6",
+    objectives: [
+        {
+            type: "OnSector",
+            preset: "1-6"
+        }
+    ]
+}
+researchCost: [
+    copper/0
+  ]

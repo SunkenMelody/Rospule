@@ -1,0 +1,48 @@
+shownPlanets: [serpulo , rospuleball]
+research: {
+    parent: "rospule-1-5",
+    objectives: [
+        {
+            type: "OnSector",
+            preset: "1-5"
+        }
+    ]
+}
+researchCost: [
+    copper/0
+  ]
+ammoTypes: {
+  coal: {
+    type: BulletType
+    speed: 3.35
+    damage: 17
+	ammoMultiplier: 6
+    lifetime: 18
+	pierce: true
+	collidesAir: false
+	keepVelocity: false
+    hittable: false
+	status: burning
+    statusDuration: 240
+    shootEffect: shootSmallFlame
+    hitEffect: hitFlameSmall
+    despawnEffect: none
+  }
+  pyratite: {
+    type: BulletType
+    speed: 4
+    damage: 48
+	ammoMultiplier: 8
+	rangeChange: 6
+    lifetime: 20
+	pierce: true
+	collidesAir: false
+	keepVelocity: false
+    hittable: false
+	status: burning
+    statusDuration: 600
+    shootEffect: shootPyraFlame
+    hitEffect: hitFlameSmall
+    despawnEffect: none
+  }
+}

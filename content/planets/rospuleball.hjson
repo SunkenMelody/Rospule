@@ -1,0 +1,128 @@
+generator: "PlanetGenerator",
+    parent: "serpulo",
+	radius: 1.2,
+	minZoom: 0.6,
+    orbitRadius: 10,
+	orbitSpacing: 15,
+    hasAtmosphere: true,
+	bloom: true
+	visible: true,
+    updateLighting: false,
+    atmosphereRadIn: 0.05,
+    atmosphereRadOut: 0.3,
+	atmosphereColor: 9679e5ff,
+	iconColor: 7a80beff,
+    drawOrbit: true,
+    accessible: true,
+    alwaysUnlocked: true,
+    defaultCore: "core-shard",
+    startSector: 2,
+    sectorSize: 3,
+    clearSectorOnLose: true,
+	allowWaves: true,
+    allowSectorInvasion: false,
+	allowLaunchToNumbered: true,
+	allowLaunchLoadout: false,
+	clearSectorOnLose: true,
+	showRtsAIRule: false,
+	prebuildBase: true,
+	allowCampaignRules: false,
+	autoAssignPlanet: true,
+    hiddenItems: [
+        "beryllium",
+        "oxide",
+        "tungsten",
+        "carbide",
+        "fissile-matter",
+        "dormant-cyst"
+    ]
+	campaignRules:{
+	showSpawns: true,
+	}
+	cloudMesh: [{
+	type: HexSkyMesh
+	seed: 125
+	speed: 0.2
+	radius: 0.08
+	divisions: 4
+	color: 9980e08a
+	octaves: 2
+	persistence: 0.7
+	scl: 1
+	thresh: 0.4
+	}
+	{
+	type: HexSkyMesh
+	seed: 74
+	speed: 0.4
+	radius: 0.15
+	divisions: 5
+	color: beabf4aa
+	octaves: 2
+	persistence: 0.7
+	scl: 1
+	thresh: 0.4
+	}
+	{
+	type: HexSkyMesh
+	seed: 70
+	speed: 0.4
+	radius: 0.15
+	divisions: 5
+	color: b0abf4aa
+	octaves: 2
+	persistence: 0.7
+	scl: 1
+	thresh: 0.4
+	}
+	]
+	mesh: [
+	{
+	type: NoiseMesh
+	seed: 141
+	divisions: 6
+	color1: 312f2f
+	color2: 7a7a7f
+	radius: 1.1
+	octaves: 4.5
+	persistence: 0.8
+	scale: 1
+	mag: 2
+	coct: 4
+    cper: 1
+    cscl: 1.8
+    cthresh: 1
+	}
+	{
+	type: NoiseMesh
+	seed: 145
+	divisions: 6
+	color1: a7896f
+	color2: 4a4665
+	radius: 1.15
+	octaves: 2
+	persistence: 0.8
+	scale: 1
+	mag: 1
+	coct: 4
+    cper: 1
+    cscl: 1.8
+    cthresh: 1
+	}
+	{
+	type: NoiseMesh
+	seed: 27
+	divisions: 6
+	color1: 47548f
+	color2: 563868
+	radius: 1.23
+	octaves: 3
+	persistence: 2
+	scale: 1
+	mag: 0.6
+	coct: 4
+    cper: 1
+    cscl: 1.8
+    cthresh: 1
+	}
+	]

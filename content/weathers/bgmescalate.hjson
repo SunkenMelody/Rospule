@@ -1,0 +1,16 @@
+type: ParticleWeather
+useWindVector: false
+yspeed: 0
+xspeed: 0
+particleRegion: circle
+opacityMultiplier: 0.1
+color: ffffff
+drawNoise: false
+sizeMin: 0
+sizeMax: 0
+minAlpha: 0.6
+maxAlpha: 0.8
+sound: escalate
+soundVol: 40
+baseSpeed: 0
+density: 99999

@@ -1,0 +1,9 @@
+type: RainWeather
+yspeed: 9
+xspeed: -6
+liquid: water
+color: 9ba3f8
+sound: rain
+soundVol: 5
+status: wet
+density: 330

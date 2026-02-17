@@ -1,0 +1,15 @@
+shownPlanets: [serpulo , rospuleball]
+research: {
+    parent: "rospule-1-9",
+    objectives: [
+        {
+            type: "OnSector",
+            preset: "1-9"
+        }
+    ]
+}
+researchCost: [
+    copper/0
+  ]
+phaseRangeBoost: 24
+useTime: 600

@@ -1,0 +1,17 @@
+type: ParticleWeather
+useWindVector: false
+yspeed: -36
+xspeed: -11
+particleRegion: rospule-hail
+opacityMultiplier: 0.6
+color: cdd2fe
+drawNoise: true
+noiseColor: cdd2fe
+noiseLayerAlphaM: 0.07
+sizeMin: 12
+sizeMax: 32
+minAlpha: 0.7
+maxAlpha: 1
+sound: none
+baseSpeed: 0.25
+density: 42000

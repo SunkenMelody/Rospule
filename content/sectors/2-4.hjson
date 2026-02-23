@@ -1,17 +1,15 @@
-sector: 9
+sector: 161
 planet: rospuleball
-captureWave: 15
 difficulty: 1
 research: {
-  parent: core-shard
+  parent: 2-3
   objectives: [
   {
   type: "SectorComplete",
-  preset: "1-10"
+  preset: "2-3"
   }
   ]
   }
   overrideLaunchDefaults: true
   addStartingItems: true
   allowLaunchLoadout: false
-  alwaysUnlocked: false

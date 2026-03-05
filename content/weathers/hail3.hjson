@@ -7,7 +7,7 @@ opacityMultiplier: 0.6
 color: cdd2fe
 drawNoise: true
 noiseColor: cdd2fe
-noiseLayerAlphaM: 0.05
+noiseLayerAlphaM: 0.008
 sizeMin: 10
 sizeMax: 20
 minAlpha: 0.7

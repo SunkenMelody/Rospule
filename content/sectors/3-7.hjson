@@ -1,0 +1,15 @@
+sector: 116
+planet: rospuleball
+difficulty: 3
+research: {
+  parent: 3-6
+  objectives: [
+  {
+  type: "SectorComplete",
+  preset: "3-6"
+  }
+  ]
+  }
+  overrideLaunchDefaults: true
+  addStartingItems: true
+  allowLaunchLoadout: false

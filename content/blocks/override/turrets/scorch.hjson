@@ -31,8 +31,8 @@ ammoTypes: {
   pyratite: {
     type: BulletType
     speed: 4
-    damage: 48
-	ammoMultiplier: 8
+    damage: 42
+	ammoMultiplier: 7
 	rangeChange: 6
     lifetime: 20
 	pierce: true

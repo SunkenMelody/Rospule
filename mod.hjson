@@ -16,7 +16,7 @@ All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compat
 
 
 [#c5cbff[]]Have fun[white[]].
-Update log: V0.2-- Chapter 3(From 3-1 to 3-10) added.
+Update log: V0.2.1-- Stage 3-4 'Giant Dam' bug fixes + Minor Typo in bundle text fixes.
 
 
 Mod by [#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫.
@@ -27,6 +27,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Localization(zh_CN):仄井心升
 "
-version: v0.2
+version: v0.2.1
 minGameVersion: 155
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

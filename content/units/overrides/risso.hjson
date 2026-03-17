@@ -1,0 +1,14 @@
+shownPlanets: [serpulo , rospuleball]
+research: {
+    parent: "4-4",
+    objectives: [
+        {
+            type: "OnSector",
+            preset: "4-4"
+        }
+    ]
+}
+researchCost: [
+    copper/0
+  ]
+researchCostMultiplier: 0.01

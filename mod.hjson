@@ -7,7 +7,7 @@ This is a [unlaunched[]]personal[white[]] Serpulo campaign rework map pack , alo
 
 This mod's gameplay is based on [sky[]]NORMAL[white[]] difficulty and cannot be changed.
 
-This mod contains [sky[]]30+[white[]] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched[]]rearranged[white[]] for each level to unlock.
+This mod contains [sky[]]35+[white[]] levels from the very basic to completed tech tree contents , notice the tech tree nodes are [unlaunched[]]rearranged[white[]] for each level to unlock.
 
 All maps in this mod(map pack) follow [accent[]]CC BY-SA 4.0 License[white[]] (All works are free to use but you must keep the original author, me , sunkenmelody's name).
 
@@ -16,7 +16,7 @@ All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compat
 
 
 [#c5cbff[]]Have fun[white[]].
-Update log: V0.2.3-- Stage 3-8 'Petroleum Chasm' start loadout graphite increased. + Stage 3-10 'Dilemma' more bug fixes.
+Update log: V0.3-- Stage 4-1 to Stage 4-5 added.
 
 
 Mod by [#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫.
@@ -27,6 +27,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Localization(zh_CN):仄井心升
 "
-version: v0.2.3
+version: v0.3
 minGameVersion: 155
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

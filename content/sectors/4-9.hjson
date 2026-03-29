@@ -1,0 +1,16 @@
+sector: 170
+planet: rospuleball
+captureWave: 40
+difficulty: 5
+research: {
+  parent: 4-8
+  objectives: [
+  {
+  type: "SectorComplete",
+  preset: "4-8"
+  }
+  ]
+  }
+  overrideLaunchDefaults: true
+  addStartingItems: true
+  allowLaunchLoadout: false

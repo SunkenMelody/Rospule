@@ -1,6 +1,6 @@
 sector: 138
 planet: rospuleball
-captureWave: 150
+captureWave: 153
 difficulty: 3
 research: {
   parent: 1-9

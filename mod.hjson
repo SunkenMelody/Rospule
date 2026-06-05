@@ -5,22 +5,20 @@ description:
 "
 A [unlaunched[]]personal[white[]] Serpulo campaign rework map pack with personal [sky[]]minor rebalancing[white[]] on few blocks.
 This mod's gameplay is based on [sky[]]NORMAL[white[]] difficulty and cannot be changed.
-Contains [sky[]]40+[white[]] sectors!
+Contains [sky[]]45+[white[]] sectors!
 All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compatible on terrain , wavesets and most contents[white[]].
 
 [#c5cbff[]]Have fun[white[]].
 
 
-Update log: V0.4 -- Stage 4-6 to Stage 4-10 added.
-V0.4.2 -- Polished the texts and 1-10 , 2-10 and 3-10 sectors with a brief ending congrat message.
+Update log: V0.5 -- Stage 5-1 to Stage 5-5 added.
 
 --Credits--
 [#cccccc[]]Coding:Everdusk22
 Sector icon:Seabed
 Music selection:しかみど☆
 Bundle Polish:Gort
-Localization(zh_CN):仄井心升
 "
-version: v0.4.2
-minGameVersion: 156
+version: v0.5
+minGameVersion: 158
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

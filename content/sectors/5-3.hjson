@@ -1,13 +1,13 @@
-sector: 124
+sector: 223
 planet: rospuleball
-captureWave: 272
-difficulty: 7
+captureWave: 50
+difficulty: 5
 research: {
-  parent: 4-9
+  parent: 5-2
   objectives: [
   {
   type: "SectorComplete",
-  preset: "4-9"
+  preset: "5-2"
   }
   ]
   }

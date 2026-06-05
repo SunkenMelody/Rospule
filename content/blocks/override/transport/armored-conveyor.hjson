@@ -1,11 +1,10 @@
 shownPlanets: [serpulo , rospuleball]
-damage: 1
 research: {
-    parent: "rospule-3-6",
+    parent: "rospule-5-4",
     objectives: [
         {
             type: "OnSector",
-            preset: "3-6"
+            preset: "5-4"
         }
     ]
 }

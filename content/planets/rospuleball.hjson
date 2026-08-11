@@ -10,7 +10,7 @@ generator: "PlanetGenerator",
     updateLighting: false,
     atmosphereRadIn: 0.05,
     atmosphereRadOut: 0.3,
-	atmosphereColor: 9679e5ff,
+	atmosphereColor: 3e3069ef,
 	iconColor: 7a80beff,
     drawOrbit: true,
     accessible: true,
@@ -78,51 +78,62 @@ generator: "PlanetGenerator",
 	]
 	mesh: [
 	{
+	//ground1
 	type: NoiseMesh
-	seed: 141
-	divisions: 6
-	color1: 312f2f
-	color2: 7a7a7f
-	radius: 1.1
-	octaves: 4.5
-	persistence: 0.8
-	scale: 1
-	mag: 2
-	coct: 4
-    cper: 1
-    cscl: 1.8
-    cthresh: 1
-	}
-	{
-	type: NoiseMesh
-	seed: 145
-	divisions: 6
-	color1: a7896f
-	color2: 4a4665
-	radius: 1.15
-	octaves: 2
-	persistence: 0.8
-	scale: 1
-	mag: 1
-	coct: 4
-    cper: 1
-    cscl: 1.8
-    cthresh: 1
-	}
-	{
-	type: NoiseMesh
-	seed: 27
+	seed: 32
 	divisions: 6
 	color1: 47548f
 	color2: 563868
-	radius: 1.23
-	octaves: 3
-	persistence: 2
-	scale: 1
-	mag: 0.6
-	coct: 4
-    cper: 1
-    cscl: 1.8
-    cthresh: 1
+	radius: 1.208
+	octaves: 4.5
+	persistence: 0.7
+	scale: 1.4
+	falloff: 0.2
+	mag: 0.5
+	}
+	
+	{
+	//ground2
+	type: NoiseMesh
+	seed: 32
+	divisions: 6
+	color1: ffdfbc
+	color2: 5a5959
+	radius: 1.18
+	octaves: 4.5
+	persistence: 0.7
+	scale: 1.4
+	falloff: 0.2
+	mag: 0.8
+	}
+	
+	{
+	//ground3
+	type: NoiseMesh
+	seed: 32
+	divisions: 6
+	color1: a0a1b8
+	color2: d3d1ff
+	radius: 1.124
+	octaves: 4.5
+	persistence: 0.7
+	scale: 1.4
+	falloff: 0.2
+	mag: 1.35
+	}
+
+	{
+	//ground4
+	type: NoiseMesh
+	seed: 32
+	divisions: 6
+	color1: eff7ff
+	color2: 7274a0
+	radius: 1.07
+	octaves: 4.5
+	persistence: 0.7
+	scale: 1.4
+	falloff: 0.2
+	mag: 1.8
 	}
 	]

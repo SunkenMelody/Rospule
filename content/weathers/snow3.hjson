@@ -1,0 +1,17 @@
+type: ParticleWeather
+useWindVector: false
+yspeed: -5
+xspeed: 12
+particleRegion: circle
+opacityMultiplier: 0.2
+color: ffffff
+drawNoise: true
+noiseColor: ffffff
+sizeMin: 1
+sizeMax: 7
+minAlpha: 0.8
+maxAlpha: 1
+sound: none
+baseSpeed: 0.25
+density: 5000
+noisePath: fog

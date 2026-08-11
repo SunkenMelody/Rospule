@@ -1,0 +1,15 @@
+type: ParticleWeather
+useWindVector: false
+particleRegion: particle
+opacityMultiplier: 0.02
+color: b3b7e8
+drawNoise: true
+noiseColor: b3b7e8
+noiseLayerAlphaM: 0.02
+sizeMin: 150
+sizeMax: 300
+minAlpha: 0.05
+maxAlpha: 0.1
+sound: none
+baseSpeed: 2
+density: 3000

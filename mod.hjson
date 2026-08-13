@@ -11,7 +11,7 @@ All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compat
 [#c5cbff[]]Have fun[white[]].
 
 
-Update log: V0.6 -- Stage 5-5 to Stage 5-10 added. Reduced all difficulties on previous offense sectors 「1-10, 2-10 3-10, 4-10」. Numerous bugs fixed.
+Update log: V0.6.1 -- Minor Bug fixes. Improved 5-10's weather perfomance and messages.
 
 --Credits--
 [#cccccc[]]Coding:Everdusk22
@@ -19,6 +19,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Bundle Polish:Plooey
 "
-version: v0.6
+version: v0.6.1
 minGameVersion: 159.7
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

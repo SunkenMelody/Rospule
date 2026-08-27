@@ -4,14 +4,14 @@ author: "[#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫"
 description:
 "
 A [unlaunched[]]personal[white[]] Serpulo campaign rework map pack with personal [sky[]]minor rebalancing[white[]] on few blocks.
-This mod's gameplay is based on [sky[]]NORMAL[white[]] difficulty and cannot be changed.
-Contains [sky[]]50+[white[]] sectors!
+Rospule is fixed at [sky[]]NORMAL[white[]] difficulty and cannot be changed.
+[sky[]]Contains 50+[white[]] sectors!
 All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compatible on terrain , wavesets and most contents[white[]].
 
 [#c5cbff[]]Have fun[white[]].
 
 
-Update log: V0.6.1 -- Minor Bug fixes. Improved 5-10's weather perfomance and messages.
+Update log: V0.6.2 -- Fixed several bundle typos. Readjusted 4-10, 5-8, 5-9 and 5-10's difficulty for better experience.
 
 --Credits--
 [#cccccc[]]Coding:Everdusk22
@@ -19,6 +19,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Bundle Polish:Plooey
 "
-version: v0.6.1
+version: v0.6.2
 minGameVersion: 159.7
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

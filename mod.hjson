@@ -11,7 +11,7 @@ All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compat
 [#c5cbff[]]Have fun[white[]].
 
 
-Update log: V0.6.2 -- Fixed several bundle typos. Readjusted 4-10, 5-8, 5-9 and 5-10's difficulty for better experience.
+Update log: V0.6.3 -- Fixed several sectors' errors.
 
 --Credits--
 [#cccccc[]]Coding:Everdusk22
@@ -19,6 +19,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Bundle Polish:Plooey
 "
-version: v0.6.2
-minGameVersion: 159.7
+version: v0.6.3
+minGameVersion: 160.7
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

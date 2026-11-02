@@ -3,15 +3,16 @@ displayName: 「Rospule」
 author: "[#908bdc[]]Sun[#8982ed[]]ken[#6d72af[]]Mel[#535a9c[]]ody[#c5cbff[]]♫"
 description:
 "
-A [unlaunched[]]personal[white[]] Serpulo campaign rework map pack with personal [sky[]]minor rebalancing[white[]] on few blocks.
-Rospule is fixed at [sky[]]NORMAL[white[]] difficulty and cannot be changed.
-[sky[]]Contains 50+[white[]] sectors!
-All maps are created under Serpulo environment and are [#c5cbff[]]vanilla compatible on terrain , wavesets and most contents[white[]].
+[unlaunched[]]A personal[white[]] Serpulo campaign rework. Designed to be [#6d72af[]]a love letter[white[]] for those new to this game. 
+Has [sky[]]minor buffs[white[]] on few vanilla weak blocks.
+This mod is fixed at [sky[]]NORMAL[white[]] difficulty and cannot be changed.
+[sky[]]Contains 55+[white[]] sectors!
+All maps are Serpulo environment compatible.
 
 [#c5cbff[]]Have fun[white[]].
 
 
-Update log: V0.6.3 -- Fixed several sectors' errors.
+Update log: V0.7 -- Stage 6-1 to 6-5 added. Multiple bugfixes, added more text hints in previous sectors.
 
 --Credits--
 [#cccccc[]]Coding:Everdusk22
@@ -19,6 +20,6 @@ Sector icon:Seabed
 Music selection:しかみど☆
 Bundle Polish:Plooey
 "
-version: v0.6.3
+version: v0.7
 minGameVersion: 160.7
 subtitle: "[#c5cbff[]]B-Side of Serpulo"

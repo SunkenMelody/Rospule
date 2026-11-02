@@ -1,0 +1,15 @@
+sector: 195
+planet: rospuleball
+difficulty: 7
+research: {
+  parent: core-shard
+  objectives: [
+  {
+  type: "SectorComplete",
+  preset: "5-10"
+  }
+  ]
+  }
+  overrideLaunchDefaults: true
+  addStartingItems: true
+  allowLaunchLoadout: false

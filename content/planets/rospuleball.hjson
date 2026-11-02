@@ -39,6 +39,9 @@ generator: "PlanetGenerator",
 	campaignRules:{
 	showSpawns: true,
 	}
+	rules:{
+	coreDestroyClear: true,
+	}
 	cloudMesh: [{
 	type: HexSkyMesh
 	seed: 125
